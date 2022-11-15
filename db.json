@@ -1,4 +1,4 @@
-{
+[
   "pallete": [
     { "id": 1, "name": "Classic Black" },
     { "id": 2, "name": "Night Sky" },
@@ -49,4 +49,4 @@
     "experience": "Put your experience here",
     "education": "Put your educational achievements here"
   }
-}
+]
